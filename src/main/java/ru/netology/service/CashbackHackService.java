@@ -7,3 +7,4 @@ public class CashbackHackService {
         return boundary - amount % boundary;
     }
 }
+//Именно так я и запустил action после того как перенастрои воркфлоу, а как иначе то, подскажите!!!
