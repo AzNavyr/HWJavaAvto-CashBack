@@ -7,3 +7,4 @@ public class CashbackHackService {
         return boundary - amount % boundary;
     }
 }
+// Не знаю как ещё запустить Action под новыми настройками кроме как сделать push,  подскажите если что )
